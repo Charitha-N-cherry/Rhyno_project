@@ -1,2 +1,2 @@
 # Rhyno_project
-Just a Major project of my internship
+Major project on Rhyno Electronic Vehicles website using frontend languages such as html, css, and javascript. 
